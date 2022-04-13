@@ -22,6 +22,7 @@ const squareList = arr => {
   
   const squaredIntegers = squareList([-3, 4.8, 5, 3, -3.2]);
 console.log(squaredIntegers);
+
 //sorting problem solution
 
 const globalArray = [5, 6, 3, 2, 9];
